@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.worldmark.mprotectlive" version="1.1.8" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US" android-versionCode="33" ios-CFBundleVersion="33">
-    <name>M-Protekt+Live</name>
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.worldmark.mprotectlive" version="1.1.8" xmlns="http://www.w3.org/ns/widgets" defaultlocale="en-US" android-versionCode="34" ios-CFBundleVersion="34">
+    <name>M-Protekt Live</name>
     <description>
-        M-Protekt+Live GPS tracker
+        M-Protekt Live GPS tracker
     </description>
     <author email="support@sinopacific.co" href="http://sinopacific.co">
          WORLDMARK PTY LIMITED
