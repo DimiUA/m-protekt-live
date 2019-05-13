@@ -3227,11 +3227,13 @@ function loadRechargeCredit(){
     var MinorToken = getUserinfo().MinorToken;    
     //var CountryCode = getUserinfo().UserInfo.CountryCode;
 
-    /*QuikTrak buttons AUS*/
-    var button10  = 'WTEPHVZ7VLF7C';
-    var button50  = 'F5QPW8CA2USAE';
-    var button100 = '8SPGQTA6M3P84';
-    var buttonCur = 'AUD'; 
+    /*QuikTrak buttons AUS*/ 
+    var buttons = {
+        'button10' : 'WTEPHVZ7VLF7C',
+        'button50' : 'F5QPW8CA2USAE',
+        'button100' : '8SPGQTA6M3P84',
+        'buttonCur' : 'AUD' 
+    };
 
     /*M-Protekt account*/
    /* var buttons = {
